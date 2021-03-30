@@ -1,4 +1,4 @@
-package main		// Радиус и длина окружности
+package main
 
 import (
 	"fmt"
@@ -16,7 +16,7 @@ func main() {
 	radius := math.Sqrt(s) / pi
 	len := 2 * pi * radius
 
-	fmt.Println("Радиус окружности площадью ", s, "равен: ", radius)
+	fmt.Println("Диаметр окружности площадью ", s, "равен: ", radius*2)
 	fmt.Println("Длина этой окружности равна: ", len)
 
 }
