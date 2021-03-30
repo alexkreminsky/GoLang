@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-				//Радиус и длина окружности
+
 	var s float64
 	pi := math.Pi
 
