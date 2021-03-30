@@ -14,9 +14,9 @@ func main() {
 	fmt.Scanf("%f", &s)
 
 	radius := math.Sqrt(s) / pi
-	l := 2 * pi * radius
+	len := 2 * pi * radius
 
 	fmt.Println("Радиус окружности площадью ", s, "равен: ", radius)
-	fmt.Println("Длина этой окружности равна: ", l)
+	fmt.Println("Длина этой окружности равна: ", len)
 
 }
