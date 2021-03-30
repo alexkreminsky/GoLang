@@ -1,4 +1,4 @@
-package main	// Поиск простого числа
+package main
 
 import "fmt"
 
