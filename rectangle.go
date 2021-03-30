@@ -1,4 +1,4 @@
-package main
+package main		// Площадь прямоугольника
 
 import "fmt"
 

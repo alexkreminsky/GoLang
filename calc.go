@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-
+// простой калькулятор
 	var input1, input2 float64
 	operator := " "
 	text := "Результат равен: "
