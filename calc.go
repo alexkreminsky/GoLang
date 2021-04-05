@@ -1,4 +1,4 @@
-package main
+package main 			//Простой	 калькулятор
 
 import (
 	"fmt"
